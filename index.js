@@ -3,14 +3,14 @@ var product = [{
     img: 'https://scontent.fkkc3-1.fna.fbcdn.net/v/t39.30808-6/492235189_122153336216543947_8853667336589421896_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Xjp7CLwfifoQ7kNvwGS5aNm&_nc_oc=Adn3jzAJFfR564LOAtlMYcbMbaakXQ_RsK6_DOcqSsGJnhhLqGIHFTBIKbrRtFkm9mGUzDMipsIA0OF8NqsSv688&_nc_zt=23&_nc_ht=scontent.fkkc3-1.fna&_nc_gid=R8Hw1MB5VZdGrI0eL2icRg&oh=00_AfcCaWQ5Zl7Dihnh4L6xkjqKgkHF-R5cuYy6IH3IuvoH2A&oe=68F3F72E',
     name: 'Nashville Hot Chicken',
     price: 69,
-    description: 'spisy',
+    description: 'yummy',
     type: 'chicken'
 }, {
     id: 2,
     img: 'https://scontent.fkkc3-1.fna.fbcdn.net/v/t39.30808-6/475461889_122135832356543947_6736248945548261388_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KxZlUX6QH5IQ7kNvwEHyxJU&_nc_oc=AdkZ9LXYPL1_C_QwpQWljJ_0Cy2LeN3QdrrU1CkBvo7TocydleVjHVzl_DvFNai8TNug7bovgREGuiLF5Ox72VCK&_nc_zt=23&_nc_ht=scontent.fkkc3-1.fna&_nc_gid=H2-_LIm0gpZ1tLZLzyrQeA&oh=00_Afea-AvAibJWVl7bce06kpVklsUYfFKC1RDulNkebZQ9Yw&oe=68F3FF88',
     name: 'Chicken Wrap',
     price: 50,
-    description: 'juisy
+    description: 'yummy',
     type: 'wrap'
 }, {
     id: 3,
